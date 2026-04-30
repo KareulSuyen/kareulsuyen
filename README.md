@@ -1,6 +1,6 @@
 <table style="border-collapse: separate;">
   <tr>
-    <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/92c1ed8e-c19d-4af7-81eb-c93bee995d9d" width="120" height="120"></td>
+    <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/92c1ed8e-c19d-4af7-81eb-c93bee995d9d" width="120px" height="120px"></td>
     <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/f278776b-b96e-46dd-9761-371e608f40db" width="120" height="120"></td>
     <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/f094570d-2d4f-4ab2-ad4a-80835596944b" width="120" height="120"></td>
     <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/362a91af-40b0-4209-bed9-a1014df8dbef" width="120" height="120"></td>
