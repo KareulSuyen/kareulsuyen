@@ -1,4 +1,4 @@
-<table style="border-collapse: separate;">
+<table style="border: none;">
   <tr>
     <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/92c1ed8e-c19d-4af7-81eb-c93bee995d9d" width="100px" height="100px"></td>
     <td style="border:none; padding:5px;"><img src="https://github.com/user-attachments/assets/f278776b-b96e-46dd-9761-371e608f40db" width="100px" height="100px"></td>
