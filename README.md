@@ -1,4 +1,4 @@
-   <img width="160px" height="160px" alt="alua2" src="https://github.com/user-attachments/assets/ce36760c-c5ee-41c3-8220-71f641956ecd" />
+   <img width="160px" height="140px" alt="alua2" src="https://github.com/user-attachments/assets/ce36760c-c5ee-41c3-8220-71f641956ecd" />
    <img width="160px" height="160px" alt="alowa" src="https://github.com/user-attachments/assets/b4386777-4480-4bcd-bf6b-2234beffbb82" />
 
 
